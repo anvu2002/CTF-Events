@@ -7,8 +7,7 @@
 ![Non-Code License: CC BY-NC-SA 4.0][Non-Code License]
 ![Stars][Stars]
 
-This repository contains official **source code** and **writchallenges in SekaiCTF 2022.
-eups** for the majority of 
+This repository is my exploration on the vulnerability analysis landsapce. 
 [CTFime Event][CTFTime Event] • 
 [Website][Website] •
 [Discord][Discord] • 
