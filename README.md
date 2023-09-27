@@ -7,12 +7,9 @@
 ![Non-Code License: CC BY-NC-SA 4.0][Non-Code License]
 ![Stars][Stars]
 
-This repository is my exploration on the vulnerability analysis landsapce. 
+This repository is my exploration of the vulnerability analysis landscape through: 
 [CTFime Event][CTFTime Event] • 
-[Website][Website] •
-[Discord][Discord] • 
-[Blog][Blog] • 
-[Twitter][Twitter]
+[PicoGym][[Website](https://picoctf.org/)] •
 
 ---
 
