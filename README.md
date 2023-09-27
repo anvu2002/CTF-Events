@@ -9,7 +9,8 @@
 
 This repository is my exploration of the vulnerability analysis landscape through: 
 [CTFime Event][CTFTime Event] • 
-[PicoGym][[Website](https://picoctf.org/)] •
+
+[PicoGym](https://picoctf.org/) •
 
 ---
 
