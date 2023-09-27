@@ -1,5 +1,4 @@
-# CTF-Events
-My CTF journey
+
 <div align="center">
 
 # ![Banner][Banner]
@@ -8,9 +7,9 @@ My CTF journey
 ![Non-Code License: CC BY-NC-SA 4.0][Non-Code License]
 ![Stars][Stars]
 
-This repository contains official **source code** and **writeups** for the majority of challenges in SekaiCTF 2022.
-
-[CTFTime Event][CTFTime Event] • 
+This repository contains official **source code** and **writchallenges in SekaiCTF 2022.
+eups** for the majority of 
+[CTFime Event][CTFTime Event] • 
 [Website][Website] •
 [Discord][Discord] • 
 [Blog][Blog] • 
