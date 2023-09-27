@@ -8,9 +8,9 @@
 ![Stars][Stars]
 
 This repository is my exploration of the vulnerability analysis landscape through: 
-[CTFime Event][CTFTime Event] • 
+• [CTFime Event][CTFTime Event] 
 
-[PicoGym](https://picoctf.org/) •
+•[PicoGym](https://picoctf.org/)
 
 ---
 
